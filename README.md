@@ -1,7 +1,7 @@
 # 166 ATMega328P Deep Sleep Project Update
 An update to the Deep Sleep Airing Cupboard project, now also a fridge alarm!
 
-## See https://www.youtube.com/ralphbacon video #165
+## See https://www.youtube.com/ralphbacon video #166
 ### (Direct link to video: https://youtu.be/BuxgEeq9IBU)
 
 ### $5 for 10 PCBs https://www.pcbway.com  
@@ -38,6 +38,9 @@ The sketches are in the GitHub. Amend to suit your needs!
 
 <img src="images/smallBeeper.JPG" width="10%" align="left">Small **beeper**: 5 PCS Super Loud 5V Active Alarm Buzzer Beeper Tracker 9\*5.5mm
 https://www.banggood.com/5-PCS-Super-Loud-5V-Active-Alarm-Buzzer-Beeper-Tracker-95_5mm-for-Racing-Drone-p-1117207.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897  
+
+<img src="images/smallBeeper.JPG" width="10%" align="left">Small **PASSIVE beeper**, 10 pieces, drive using Arduino TONE command
+https://www.banggood.com/10Pcs-AC-3V-Buzzer-Wireless-16-Ohm-Passive-Magnetic-Buzzer-for-Earphone-Mobile-Phone-Digital-Speaker-p-1473091.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897
 
 <img src="images/smallpir.JPG" width="10%" align="left">Small **PIR module** (5 pieces you can buy singly or in threes too)  
 https://www.banggood.com/5Pcs-Mini-IR-Infrared-Pyroelectric-PIR-Body-Motion-Human-Sensor-Detector-Module-p-1020426.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897
