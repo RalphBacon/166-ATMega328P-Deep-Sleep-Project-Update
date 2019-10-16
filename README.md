@@ -36,3 +36,22 @@ https://freeware.the-meiers.org/
 
 The sketches are in the GitHub. Amend to suit your needs!
 
+<img src="images/smallBeeper.JPG" width="10%" align="left">Small **beeper**: 5 PCS Super Loud 5V Active Alarm Buzzer Beeper Tracker 9\*5.5mm
+https://www.banggood.com/5-PCS-Super-Loud-5V-Active-Alarm-Buzzer-Beeper-Tracker-95_5mm-for-Racing-Drone-p-1117207.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897  
+
+<img src="images/smallpir.JPG" width="10%" align="left">Small **PIR module** (5 pieces you can buy singly or in threes too)  
+https://www.banggood.com/5Pcs-Mini-IR-Infrared-Pyroelectric-PIR-Body-Motion-Human-Sensor-Detector-Module-p-1020426.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897
+
+<img src="images/ATmega328P-Pinmapping.JPG" width="10%" align="left">ATMega328P pin out (Arduino vs Physical Pins etc)  
+https://camo.githubusercontent.com/c55beef2f138da61fe671a1e4a307ff4ffbc318d/68747470733a2f2f692e696d6775722e636f6d2f715849456368542e6a7067
+
+<img src="images/ProjectCase.JPG" width="10%" align="left">Plastic case used in this project  
+https://www.banggood.com/2pcs-75-x-54-x-27mm-DIY-Plastic-Project-Housing-Electronic-Junction-Case-Power-Supply-Box-p-1063302.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897
+
+If you like this video please give it a thumbs up, share it and if you're not already subscribed please consider doing so and joining me on my Arduinite journey
+
+My channel and blog are here:  
+\------------------------------------------------------------------  
+https://www.youtube.com/RalphBacon  
+https://ralphbacon.blog  
+\------------------------------------------------------------------
