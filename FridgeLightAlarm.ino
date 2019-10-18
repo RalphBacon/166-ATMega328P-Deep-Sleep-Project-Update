@@ -32,7 +32,7 @@ void goToSleep();
 uint16_t readLDR();
 void lowBattery();
 
-// Declare our battery object here
+// Declare our battery object here 
 BatteryVoltageReader BVR;
 
 //==================================
@@ -193,7 +193,7 @@ void goToSleep() {
 	__asm__ __volatile__ ( "sleep" "\n\t" :: );
 
 // ---------------------------------------------------------------
-// µController is now asleep until woken up by the WDT (8 seconds)
+// ÂµController is now asleep until woken up by the WDT (8 seconds)
 // ---------------------------------------------------------------
 
 // 1. AWAKE! Disable sleep mode now (belt and braces)
@@ -215,7 +215,7 @@ void goToSleep() {
 //power_all_enable();
 }
 
-// When WatchDog timer causes µC to wake it comes here after X seconds
+// When WatchDog timer causes ÂµC to wake it comes here after X seconds
 ISR (WDT_vect) {
 
 // Turn off watchdog, we don't want it to do anything (like resetting this sketch)
