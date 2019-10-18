@@ -32,7 +32,7 @@ unsigned char prevPIRState = 0;
 void setup() {
 #ifdef DEBUG
   Serial.begin(9600);
-  Serial.print("F_CPU: "); Serial.println(F_CPU);
+  Serial.print("F_CPU: "); Serial.println(F_CPU); 
 #endif
 
   // Set all [unused?] pin to INPUT mode to reduce power
