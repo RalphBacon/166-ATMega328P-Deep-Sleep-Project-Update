@@ -4,7 +4,7 @@ An update to the Deep Sleep Airing Cupboard project, now also a fridge alarm!
 ## See https://www.youtube.com/ralphbacon video #166
 ### (Direct link to video: https://youtu.be/BuxgEeq9IBU)
 
-### $5 for 10 PCBs https://www.pcbway.com  
+### PCBWay SMT Service only $30 with Quick Turnaround Time https://www.pcbway.com
 PCB Prototype the Easy Way  
 Full feature custom PCB prototype service  
 ```
